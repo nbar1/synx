@@ -7,6 +7,7 @@ export const themeDefault = {
   },
   navigation: {
     backgroundColor: '#121212',
+    textColor: '#c7c3c3',
     width: '275px',
   },
 };
