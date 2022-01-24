@@ -1,8 +1,12 @@
 import { FC } from 'react';
-import { Container } from './styles';
+import { Container, Logo } from './styles';
 
 const Navigation: FC = () => {
-  return <Container>Navigation</Container>;
+  return (
+    <Container>
+      <Logo>synx</Logo>
+    </Container>
+  );
 };
 
 export default Navigation;
