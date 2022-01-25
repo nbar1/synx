@@ -23,6 +23,6 @@ export const Container = styled.li`
 export const Icon = styled(FontAwesomeIcon)`
   height: 20px;
   position: absolute;
-  right: 10px;
+  right: 15px;
   top: calc(50% - 10px);
 `;
